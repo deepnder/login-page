@@ -1,0 +1,36 @@
+
+        .btn{
+            padding: 20px;
+            background-color: green;
+            border-radius: 100px;
+        }
+
+
+        div{
+            width: 500px;
+            height: 500px;
+            margin: 0 auto;
+            padding: 120px;
+            box-sizing: border-box;
+            border-radius: 20px;
+            color: white;
+            box-shadow: 20px 14px 10px salmon;
+background: black;
+        }
+        center h1{
+            font-size: 40px;
+            font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+        }
+        div input{
+            border-radius: 20px;
+            font-size: 25px;
+        }
+        div button{
+            border-radius: 8px;
+            background: royalblue;
+            font-size: 30px;
+            color: white;
+            position: relative;
+            top: 10px;
+            left: 50px;
+        }
